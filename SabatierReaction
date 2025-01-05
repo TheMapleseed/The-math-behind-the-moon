@@ -1,0 +1,58 @@
+Here’s the Sabatier reaction and stoichiometric formula:
+
+Reaction Formula
+
+
+CO_2 + 4H_2 \rightarrow CH_4 + 2H_2O
+
+
+Stoichiometric Relationships
+	•	 1 \, \text{mol of } CO_2  reacts with  4 \, \text{mol of } H_2  to produce:
+	•	 1 \, \text{mol of } CH_4  (methane)
+	•	 2 \, \text{mol of } H_2O  (water)
+
+Mass Calculations
+
+Reactants:
+
+
+m_{CO_2} = n_{CO_2} \times M_{CO_2} = 1 \, \text{mol} \times 44.01 \, \frac{\text{g}}{\text{mol}} = 44.01 \, \text{g}
+
+
+m_{H_2} = n_{H_2} \times M_{H_2} = 4 \, \text{mol} \times 2.016 \, \frac{\text{g}}{\text{mol}} = 8.064 \, \text{g}
+
+
+Products:
+
+
+m_{CH_4} = n_{CH_4} \times M_{CH_4} = 1 \, \text{mol} \times 16.04 \, \frac{\text{g}}{\text{mol}} = 16.04 \, \text{g}
+
+
+m_{H_2O} = n_{H_2O} \times M_{H_2O} = 2 \, \text{mol} \times 18.015 \, \frac{\text{g}}{\text{mol}} = 36.03 \, \text{g}
+
+
+Mass Conservation Check
+
+
+\text{Total Mass of Reactants: } m_{CO_2} + m_{H_2} = 44.01 \, \text{g} + 8.064 \, \text{g} = 52.074 \, \text{g}
+
+
+\text{Total Mass of Products: } m_{CH_4} + m_{H_2O} = 16.04 \, \text{g} + 36.03 \, \text{g} = 52.07 \, \text{g}
+
+\[
+\therefore \text{Mass is conserved: } 52.074 \, \text{g} \approx 52.07 \, \text{g}
+\]
+
+Energy Considerations
+	1.	Electrolysis of Water:
+
+2H_2O + \text{electricity} \rightarrow 2H_2 + O_2
+
+Energy input:  \sim 50 \, \text{kWh per kg of } H_2 .
+	2.	Sabatier Reaction:
+
+CO_2 + 4H_2 \rightarrow CH_4 + 2H_2O
+
+Energy released:  \Delta H = -165 \, \frac{\text{kJ}}{\text{mol}} \, \text{(exothermic)} .
+
+Let me know if you’d like additional steps or refinements!
